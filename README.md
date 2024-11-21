@@ -1,6 +1,10 @@
 # Cybersecurity-Fundamentals
-Hey! I am super new to all of this. Hopefully you are too, or you are going to find my profile incredibly boring.
-I have been taking tons of courses to learn the basics and hopefully, eventually, find a job. Since I have been 
-taking tons of notes, I figured it would be a good idea to share them here in hopes that I can connect with 
-some other beginners and maybe we can help eachother out? Hopefully yall find your way here. I'd love to 
-connect with other people! <3 N
+Hey there!
+I'm super new to this whole cybersecurity world, and if you're new too, you might find this profile relatable. 
+If not, well... I might not be the most exciting read yet! 😄
+I've been diving into tons of courses to learn the basics, with hopes of eventually landing a job in cybersecurity. 
+Since I've been taking a lot of notes along the way, I thought it would be a good idea to share them here. 
+I’m hoping to connect with other beginners—maybe we can help each other out along the way!
+If you're here, I hope you find something useful. I'd love to connect with fellow learners, so feel free to reach out!
+<3
+N
