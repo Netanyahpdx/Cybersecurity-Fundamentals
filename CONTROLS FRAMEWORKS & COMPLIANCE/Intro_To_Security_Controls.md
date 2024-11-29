@@ -31,7 +31,18 @@ Control types include, but are not limited to:
 3. **Detective**: Implemented to determine whether an incident has occurred or is in progress.
 4. **Deterrent**: Designed to discourage attacks.
 
-These controls work together to provide defense in depth and protect assets. 
+These controls work together to provide defense in depth and protect assets.
+
+### Clarifying Control Categories
+Security controls can be categorized in two ways:
+- **By Type**: (Technical, Operational, Managerial)
+  - This focuses on who or what enforces the controls (technology, people, or policies).
+- **By Purpose**: (Preventative, Detective, Corrective, Deterrent)
+  - This focuses on what the control is meant to achieve (prevent, detect, correct, or deter).
+
+Controls can overlap across these categories:
+- A control might be both **technical** and **preventative**, like a **firewall**, which is a technical tool used to prevent malicious traffic from entering a network.
+- A **CCTV camera** might be both **physical** and **preventative/detective**, as it can deter attacks and also provide evidence in the event of an incident.
 
 ### Administrative Controls
 
@@ -67,4 +78,3 @@ These controls work together to provide defense in depth and protect assets.
 | Signage Indicating Alarm Service Provider | Deterrent | Deter threats by making the likelihood of a successful attack seem low          |
 | Locks                         | Deterrent/Preventative | Bolster integrity by deterring and preventing unauthorized access to assets    |
 | Fire Detection and Prevention (Fire Alarm, Sprinkler System, etc.) | Detective/Preventative | Detect fire and prevent damage to physical assets such as inventory, servers, etc. |
-
